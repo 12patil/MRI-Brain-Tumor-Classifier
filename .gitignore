@@ -160,3 +160,5 @@ build/
 # Windows
 Thumbs.db
 model/best_model.keras
+best_model.keras
+*.bat

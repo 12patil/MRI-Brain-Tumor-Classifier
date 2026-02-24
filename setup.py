@@ -20,8 +20,8 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 name='Brain_tumor_Detection',
 version='0.0.1',
-author='Arsalan',
-author_email='arsalankhangenai@gmail.com',
+author='Vaibhav Patil',
+author_email='',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
